@@ -1,0 +1,44 @@
+#addForm, #findForm {
+    display: none;
+}
+
+#list {
+    float: left;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.link:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+#addForm div {
+    border: 1px solid gray;
+    background-color: yellow;
+    padding: 25px;
+}
+
+#table{
+    width: 600px;
+    background-color: yellow;
+}
+
+table tr th {
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+table tr td {
+    height: 50px;
+    border: 1px gray solid;
+}
+
+#detail {
+    background-color: #0BB;
+    padding: 25px;
+    color: white;
+}

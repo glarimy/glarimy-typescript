@@ -1,0 +1,1 @@
+tsc -target es6 -experimentalDecorators true -module commonjs  main.ts
