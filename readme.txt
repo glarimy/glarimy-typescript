@@ -21,7 +21,7 @@ Building using node
 Running (no magic)
 01. (on console) node main.js (runs the generated js)
 
-Illustrations
+List of Illustrations
 00: Printing on terminal
 01: Linking to browser and printing on console 
 02. User defined datatypes 
@@ -38,5 +38,4 @@ Illustrations
 13. Promises
 14. Decorators
 15. Modules
-16. Ajax Calls
-17. Brwoser Application
+16. Ajax Application
